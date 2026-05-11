@@ -1,0 +1,31 @@
+# Tutorial Membuat Gelang Manik-Manik 
+
+Project ini berisi tutorial sederhana cara membuat gelang manik-manik menggunakan HTML.
+
+## Alat dan Bahan
+- Manik-manik
+- Tali elastis
+- Gunting
+
+## Langkah-Langkah
+1. Potong tali elastis sesuai ukuran tangan.
+2. Masukkan manik-manik sesuai pola yang diinginkan.
+3. Ikat tali dengan kuat.
+4. Rapikan gelang agar terlihat lebih menarik.
+
+## Teknologi yang Digunakan
+- HTML
+
+## Tujuan Project
+Project ini dibuat untuk belajar:
+- Dasar HTML
+- Membuat website sederhana
+- Upload project ke GitHub
+
+## Cara Menjalankan Project
+1. Download atau clone repository ini.
+2. Buka folder project di Visual Studio Code.
+3. Jalankan file `index.html` menggunakan browser.
+
+## Author
+Nita Yulia Rahmani
